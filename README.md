@@ -4,6 +4,13 @@
 
 An itsy bitsy floating window manager (*220~ sloc!*).
 
+## It's a fork of original sowm,and with my custom minimal configuration
+which includes : 
+
+- st terminal 
+- dmenu 
+
+### Features
 - Floating only.
 - Fullscreen toggle.
 - Window centering.
